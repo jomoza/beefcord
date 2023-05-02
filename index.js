@@ -13,8 +13,8 @@ const beefDomain = "localhost";
 const beefPort = "3000";
 const BeefToken = '';
 const channelId = '';
-const filePath = './tmpFile/client_ids';
-const lastOut = './tmpFile/last_send';
+const filePath = './client_ids';
+const lastOut = './last_send';
 
 
 
