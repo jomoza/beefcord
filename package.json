@@ -1,0 +1,15 @@
+{
+  "name": "beefcord",
+  "version": "0.0.1",
+  "description": "beefcord is a discord bot for beef",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jomoza",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.15.1",
+    "request": "^2.88.2"
+  }
+}
